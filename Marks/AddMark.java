@@ -14,7 +14,8 @@ public class AddMark
                 int ocena = scanner.nextInt();
                 Matematyka.listOfMarks.add(ocena);
             }
-
+            System.out.println("wybierz przedmiot(matematyka, polski, fizyka, informatyka, biologia, geografia, wf), lub napisz stop)");
+            przedmiot = scanner.nextLine();
         }while (!przedmiot.equals("stop"));
 
 }

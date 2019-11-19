@@ -46,8 +46,8 @@ public class Main
 //        System.out.println("Użytkownicy: " + DataBase.listOfUsers);
         AddMark addMark = new AddMark();
         addMark.addMark();
-        addMark.addMark();
-        addMark.addMark();
+//        addMark.addMark();
+//        addMark.addMark();
         System.out.println(Matematyka.listOfMarks);
         save();
 
