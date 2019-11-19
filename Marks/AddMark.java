@@ -10,7 +10,7 @@ public class AddMark
         Matematyka matematyka =  new Matematyka();
         String przedmiot = scanner.nextLine();
         do{
-            if ("matematyka".equals(przedmiot)){
+            if ("matematylkkkka".equals(przedmiot)){
                 int ocena = scanner.nextInt();
                 Matematyka.listOfMarks.add(ocena);
             }
