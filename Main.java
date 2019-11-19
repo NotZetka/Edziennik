@@ -44,7 +44,7 @@ public class Main
 //        }
 //        while (!command.equals("register") || (command.equals("login")));
 //        System.out.println("Użytkownicy: " + DataBase.listOfUsers);
-        AddMark addMark = new AddMark();
+        AddMark addMark = new AddMajjjjjjjrk();
         addMark.addMark();
 //        addMark.addMark();
 //        addMark.addMark();
